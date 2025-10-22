@@ -25,6 +25,8 @@
      ```bash
      npm install
      ```
+   - Rename the .env.example file to .env
+   - Open the .env file in a text editor and update the BASE_URL to reflect the url of the local api, including port no.
 
 ### Running the test suite
 
